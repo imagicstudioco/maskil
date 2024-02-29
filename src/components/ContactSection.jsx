@@ -51,12 +51,10 @@ function ContactSection() {
                         <div className="contact-right-content">
                             <div className="tj-sec-heading">
                                 <span className="sub-title wow fadeInUp" data-wow-delay=".3s">Contact Us</span>
-                                <h2 className="sec-title wow fadeInUp" data-wow-delay=".4s">Make Brand As Brilliant One</h2>
+                                <h2 className="sec-title wow fadeInUp" data-wow-delay=".4s">Get In Touch</h2>
                                 <div className="desc wow fadeInUp" data-wow-delay=".5s">
                                     <p>
-                                        When an unknown printer took a galley of type and scrambled it to make a
-                                        type specimen book. It has survived not only five centuries, but also the
-                                        leap into electronic typesetting, remaining essentially unchanged
+                                    Feel free to get in touch with us at Maskil to discuss your project needs or inquire about our services. You can reach us via email at <a href='mailto:hello@maskil.com'>hello@maskil.com</a> . We look forward to hearing from you and helping you achieve your digital goals.
                                     </p>
                                 </div>
                                 

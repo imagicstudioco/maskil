@@ -39,15 +39,13 @@ function SliderSection() {
                         <div className="container">
                             <div className="hero-content-area">
                                 <div className="tj-sec-heading">
-                                    <span className="white-sub-title">Collaboration With Chat</span>
+                                    <span className="white-sub-title">Give your business a boost</span>
                                     <h1 className="title">
-                                        Better Design For Your Digital <span className="active-shape">Products.</span>
+                                        <span className="active-shape">MASKIL</span> : Web + Graphics
                                     </h1>
                                     <div className="desc">
                                         <p>
-                                            It is a long established fact that a reader will be distracted by the
-                                            readable content of a page when looking at its layout. The point of
-                                            using Lorem Ipsum is that it has a more-or-less normal distribution of
+                                        Elevating brands through innovative design, seamless development, and strategic digital marketing.
                                         </p>
                                     </div>
                                     <div className="hero-button d-flex">

@@ -68,19 +68,13 @@ function AboutSection() {
                                 <span className="sub-title">About Us</span>
                                 <h2 className="sec-title">Making Your Business More Unique</h2>
                                 <div className="desc">
-                                    <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the
-                                        majority have suffered alteration in some form, by injected humour, or
-                                        randomised words which don't look even slightly believable.
-                                    </p>
-                                    <p>
-                                        There are many variations of passages of Lorem Ipsum available, but the
-                                        majority have suffered alteration in some form,
-                                    </p>
-                                    <p>
-                                        by injected humour, or randomised words which don't look even slightly
-                                        believable.
-                                    </p>
+                                <p>Maskil is a dynamic creative agency based in the heart of the UK, specializing in graphics and logo design, web and mobile app development, and social media management services. With a passion for innovation and a commitment to excellence, we empower businesses to thrive in the digital landscape.</p>
+
+<p>Our team of experienced designers and developers collaborates closely with clients to understand their unique vision and goals. Whether it's crafting a captivating logo, building a user-friendly website or mobile app, or devising a winning social media strategy, we combine creativity with technical expertise to deliver outstanding results.</p>
+
+<p>At Maskil, we believe in the power of design and technology to transform brands and drive business growth. With a focus on quality, professionalism, and customer satisfaction, we strive to exceed expectations and make a lasting impact in every project we undertake.</p>
+
+<p>Partner with Maskil today and let us elevate your brand to new heights in the digital world.</p>
                                 </div>
                                 
                             </div>
