@@ -12,8 +12,40 @@ function Header() {
 
     return (
         <header className="tj-header-area header-style-two header-sticky">
-            <div className="header-topbar">
-                {/* Header Topbar Content */}
+           <div className="header-topbar">
+                <div className="container">
+                    <div className="row">
+                        <div className="col-lg-12">
+                            <div className="topbar-content-area">
+                                <div className="topbar-left-content">
+                                    <div className="topbar-contact">
+                                        <ul className="dot-style">
+                                          
+                                            <li>
+                                                <i className="flaticon-open-envelope"><FaEnvelope /></i><Link to="mailto:hello@maskil.co.uk">hello@maskil.co.uk</Link>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div className="topbar-right-content">
+                                    <div className="topbar-share">
+                                        <ul className="dot-style">
+                                            <li>
+                                                <Link to="#"> <i className="fa-brands fa-instagram"><FaInstagram /></i></Link>
+                                            </li>
+                                            <li>
+                                                <Link to="#"> <i className="fa-brands fa-twitter"><FaTwitter /></i></Link>
+                                            </li>
+                                            <li>
+                                                <Link to="#"> <i className="fa-brands fa-facebook-f"><FaFacebook /></i></Link>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div className="menu-area">
                 <div className="container">
