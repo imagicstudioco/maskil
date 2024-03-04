@@ -1,5 +1,19 @@
+
+
+
+
+
+
+
+
 import React, { useState } from 'react';
-import { FaBars } from 'react-icons/fa';
+import {
+    FaEnvelope,
+    FaFacebook,
+  FaInstagram,
+  FaTwitter,
+  FaBars
+  } from 'react-icons/fa';
 import { Link } from 'react-scroll';
 import logo from "../assets/images/white-logo.png";
 
