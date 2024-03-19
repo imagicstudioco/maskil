@@ -85,43 +85,7 @@ function ServiceSection() {
                             </div>
                         </div>
                         {/* Repeat other service items similarly */}
-                        <div className="tj-service-item-two wow fadeInUp" data-wow-delay=".5s" style={{ visibility: 'visible', animationDelay: '0.5s', animationName: 'fadeInUp' }}>
-                            <div className="service-content-info">
-                                <div className="service-left-content">
-                                    <div className="service-icon">
-                                        <i className="flaticon-digital-marketing"></i>
-                                    </div>
-                                    <div className="service-text">
-                                        <h3 className="title-link">
-                                            Digital Marketing & Social Media Management
-                                        </h3>
-                                        <span className="number">03</span>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                            <div className="service-middle-content">
-                                <div className="service-text">
-                                    <div className="desc">
-                                    <p>At Maskil, we understand the power of digital marketing and social media in shaping brand perceptions and driving business growth. Our comprehensive suite of services in digital marketing and social media management is designed to help businesses establish a strong online presence, engage with their target audience, and achieve their marketing objectives.</p>
-
-<br />
-<p>From crafting compelling content to implementing data-driven strategies, our team of experts harnesses the latest tools and techniques to deliver results-driven digital marketing campaigns. Whether you're looking to increase brand awareness, generate leads, or drive conversions, we tailor our approach to align with your specific goals and maximize your ROI.</p>
-
-<br />
-<p>In the realm of social media management, we offer a full spectrum of services to effectively manage and optimize your social media channels. From creating engaging posts and managing communities to running targeted advertising campaigns, we ensure that your brand remains top-of-mind and actively engages with your audience across platforms like Facebook, Instagram, Twitter, LinkedIn, and more.</p>
-
-<br />
-<p>Through strategic planning, continuous monitoring, and performance analysis, we help you build meaningful connections with your audience, foster brand loyalty, and drive business growth. With Maskil's digital marketing and social media management services, you can leverage the power of online platforms to elevate your brand and stay ahead in today's competitive landscape.</p>
-
-<br />
-<p>Partner with us today and let's embark on a journey of digital success together.</p>
-                                    </div>
-                                    
-                                </div>
-
-                            </div>
-                        </div>
+                     
                        
                     </div>
                 </div>

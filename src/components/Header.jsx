@@ -36,7 +36,7 @@ function Header() {
                                         <ul className="dot-style">
                                           
                                             <li>
-                                                <i className="flaticon-open-envelope"><FaEnvelope /></i><Link to="mailto:hello@maskil.co.uk">hello@maskil.co.uk</Link>
+                                                <Link to="mailto:hello@maskil.co.uk"><FaEnvelope /> hello@maskil.co.uk</Link>
                                             </li>
                                         </ul>
                                     </div>
